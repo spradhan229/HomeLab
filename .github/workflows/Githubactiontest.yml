@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Test Output
-      run: echo "Here is a test"
+      run: echo "Here is a test of github action"
